@@ -57,6 +57,7 @@ labs.
   - ⭐️ **Flatiron Stock Exchange**
 - (Optional) Additional Practice (7)
 
+
 ## Weeks 13 – 14
 
 There's one new concept to learn before starting on projects: **client-side
